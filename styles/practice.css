@@ -1,6 +1,6 @@
 /* header */
 .header{
-    background-image: url(images/donation1.jpg);
+    background-image: url(../images/donation1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 400px;
@@ -9,7 +9,7 @@
 }
 .titel{
     text-align: center;
-    color: rgb(231, 233, 235);
+    color: azure;
 }
 .H1{
     font-size: 50px;
