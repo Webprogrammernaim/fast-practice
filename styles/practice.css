@@ -157,3 +157,55 @@
             font-weight: 350;  
             font-size: 15;      
        }
+       /* Updates */
+       .Updates{
+        margin: 80px 230px 50px 230px;
+       }
+       .Updates-title{
+        font-size: 35px;
+        text-align: center;
+       }
+       .Updates-des{
+        color: rgb(31, 30, 30);
+            font-weight: 350;  
+            font-size: 15;
+            text-align: center;      
+       }
+       .Subscribe{
+        background-color: #ffdc97;
+        margin: 10px 200px 50px 200px;
+        padding: 50px 140px;
+       }
+       .input{
+        padding: 7px 10px;
+        background-color: #dad6d6;
+        margin-right: 0;
+       }
+       ::placeholder{
+        text-align: left;
+       }
+      .btn-sub{
+        background-color: #f75235;
+        color: azure;
+        border: 0;
+        padding: 7px 20px;
+        margin-left: 0;
+      }
+      .footer{
+        background-color: #000000;
+        padding: 20px 200px;
+      }
+      .humble{
+        color: #f75235;
+        text-align: center;
+        font-size: 35px;
+        margin-bottom: 10px;
+        font-family: 'Lobster', cursive;
+font-family: 'Open Sans', sans-serif;
+      }
+      .do-it{
+        color: azure;
+        text-align: center;
+        font-size: 12px;
+        margin-top: 20px;
+      }
